@@ -1,0 +1,7 @@
+Task:
+Create a Java program that demonstrates the use of increment (++) and decrement (--) operators. Show the difference between pre-increment and post-increment, as well as pre-decrement and post-decrement.
+
+Implementation Instructions:
+Declare a variable (int).
+Use increment and decrement operators (both pre and post).
+Print the results before and after applying the operators.
